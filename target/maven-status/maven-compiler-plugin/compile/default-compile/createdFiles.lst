@@ -1,0 +1,5 @@
+br/com/rformagio/authserver/AuthServerApplication$AuthenticationManagerConfiguration.class
+br/com/rformagio/authserver/config/AuthorizationServer.class
+br/com/rformagio/authserver/webfilter/CorsFilter.class
+br/com/rformagio/authserver/AuthServerApplication$1.class
+br/com/rformagio/authserver/AuthServerApplication.class
